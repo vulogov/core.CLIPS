@@ -5,6 +5,8 @@ celery==5.0.0
 click==7.1.2
 click-didyoumean==0.0.3
 click-repl==0.1.6
+gevent==20.9.0
+greenlet==0.4.17
 iniconfig==1.0.1
 kombu==5.0.2
 packaging==20.4
@@ -21,3 +23,5 @@ toml==0.10.1
 vine==5.0.0
 wcwidth==0.2.5
 zmq==0.0.0
+zope.event==4.5.0
+zope.interface==5.1.0
