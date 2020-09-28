@@ -1,4 +1,5 @@
 amqp==5.0.1
+arangodb==0.0.12
 attrs==20.2.0
 billiard==3.6.3.0
 celery==5.0.0

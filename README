@@ -1,0 +1,1 @@
+# Do not use arangodb.secret for your production installation as it is shared publically
