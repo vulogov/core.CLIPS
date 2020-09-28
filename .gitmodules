@@ -1,0 +1,3 @@
+[submodule "dependencies/clipspy"]
+	path = dependencies/clipspy
+	url = https://github.com/noxdafox/clipspy.git
