@@ -4,6 +4,7 @@ from .celery import app
 
 @app.task
 def ping():
+    print(app.conf)
     return 1
 
 @app.task
